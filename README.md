@@ -1,46 +1,42 @@
 <p align="center">
-<img src="./.github/assets/logo_itgam.png" 
-alt="Logo"> 
+<img src="./.github/assets/logo_itgam.png"
+alt="Logo">
 </p>
 
-# Desarrollo Web SSR - 2026A
+# Desarrollo web SSR -2026
+Repositorio de la materia Desarrollo web SSR (Server Side Rendering)
 
-Repositorio de la materia de Desarrollo
-Web SSR (Server Side Rendering)
+## 🎋Contenido
+- Ramas de trabajo
+- Proyecto eje de la materia 
 
-## Contenido
--Ramas de trabajo.
--Proyecto eje de la materia.
+## 🎯Objetico
 
-## Objetivo
+Documentar los sprints del proyecto que se desarrollaran a lo largo del curso.
 
-Documentar los sprints del proyecto que desarrollara a 
-lo largp del curso.
+## 🪵Ramas del Proyecto
 
-## Ramas del proyecto
+- `dev`: Rama de Desarrollo
+- `main`: Rama principal
 
--'dev': Rama de desarrollo.
--'main': Rama principal.
+## 🪢Convenciones de Commits
 
-## Convenciones de Commits
-
-|Codigo|Descripcion|
-|----|----|
-|feat: ✨| Nueva Funcionalidad|
-|fix: 🐛| Correccion de errores|
-|docs: ✨| Cambios en la documentacion|
-|style: ✨| Cambio de aspecto visual|
-|refactor: ✨| Refactorizacion de codigo|
-|perf: ✨| Mejoras de rendimiento|
-|test: ✅| Cambios en los test|
-|chore: 🔧| Cambios en dependencias|
-|ci: 🤖| Cambios en el CI/CD|
-|revert: ⏪| Reveresion de commits|
+|Codigo|Descripcion|  
+|----|----|    
+|feat:⭐|Nueva funcionalidad|
+|fix:🐛|Correccion de Errores|
+|Docs:📄|Cambios en la documentacion|
+|styles:🎨|Cambio de aspecto visual|
+|Refactor:♻️|Refactorizacion de Codigo|
+|perf:⚡|Mejoras de Rendimiento|
+|test:✅|Cambios en los test|
+|chore:🔧|Cambios de dependencias|
+|ci:🤖|Cambios en el CI/CD|
+|revert:⏮️|Reversion de Comits|
 
 **Ejemplo:** 
-feat ✨: Agrega automatizacion de usuarios 
+feat⭐: Agrega Automatizacion de usuarios
 
-# 👤Autor
+# 👤 Autor
 
-[Rebeca Carrillo](https://github.com/rebeca)
-
+[Carrillo Rebeca](http://github.com/Rebeca)
